@@ -5,7 +5,9 @@ Arquivo de plando (plando file) para gerar as settings Blitz utilizadas na comun
 Em primeiro lugar, você precisará fazer o download do gerador e de dois programas, Python e Nods.js. Todos os links estão disponíveis abaixo.
 
 Gerador Blitz Settings: https://github.com/mracsys/OoT-Randomizer/archive/goal-hints.zip
+
 Python (3.6 ou superior): https://www.python.org/downloads/
+
 Node.JS (versão mais recente ou 13.14 se você for usuário de Windows 7): https://nodejs.org/en/download/
 
 Após instalar os dois programas, extraia o gerador e abra o arquivo gui.py. Nunca atualize seu gerador, uma vez que o arquivo de hints foi criado para essa versão específica. Quando o gerador abrir, clique na opção "Enable Plandomizer (Advanced) e escolha como Plandomizer File o arquivo disponibilizado aqui (nomeado como "blitz-goal-plando.json"). Selecione sua ROM 1.0 de The Legend of Zelda: Ocarina of Time, o destino da ROM modificada e a string utilizada para gerar as seeds (há diversas strings com diferentes configurações nos links abaixo).
@@ -36,6 +38,7 @@ As dicas também foram alteradas: saíram os Ways of the Hero e entraram os Path
 - 5 Sometimes x1
  
 **O que é esse Path of the Reward?**
+
 Path of the Reward substitui as dicas de Way of the Hero, fornecendo informações mais diretas sobre a seed. Um Path of the Reward apontará para um local e uma recompensa do jogo, garantindo que, neste local, você encontrará um item que logicamente te levará a obter a referida recompensa.
 **Vamos a um exemplo:** A recompensa **Fire Medallion** está atrás de **Deku Tree**, e você encontrou a seguinte dica "*Ice Cavern is on the Path of the Fire*". Isso quer dizer que, em Ice Cavern, você encontrará um item que te permitirá obter o Fire Medallion (portanto, terminar Deku Tree). Esse item pode ser a Kokiri Sword, o Slingshot (em casos mais extremos) ou outro item/música que te permitirá obter os itens supracitados.
 
