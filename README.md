@@ -23,6 +23,7 @@ As dicas também foram alteradas: saíram os Ways of the Hero e entraram os Path
 - 40 e 50 skulltulas, 1500 Horseback Archery habilitados;
 - Closed Deku Tree;
 - Claim Check é o primeiro item da Trade Quest;
+- Ganon's Castle **sempre** é foolish, sem dicas informando que o local é foolish;
 - Sem dicas nas grottos;
 - Random spawn;
 - Já começa com a música que estaria em Zelda's Lullaby, além da Zelda's Letter entregue;
@@ -37,3 +38,8 @@ As dicas também foram alteradas: saíram os Ways of the Hero e entraram os Path
 **O que é esse Path of the Reward?**
 Path of the Reward substitui as dicas de Way of the Hero, fornecendo informações mais diretas sobre a seed. Um Path of the Reward apontará para um local e uma recompensa do jogo, garantindo que, neste local, você encontrará um item que logicamente te levará a obter a referida recompensa.
 **Vamos a um exemplo:** A recompensa **Fire Medallion** está atrás de **Deku Tree**, e você encontrou a seguinte dica "*Ice Cavern is on the Path of the Fire*". Isso quer dizer que, em Ice Cavern, você encontrará um item que te permitirá obter o Fire Medallion (portanto, terminar Deku Tree). Esse item pode ser a Kokiri Sword, o Slingshot (em casos mais extremos) ou outro item/música que te permitirá obter os itens supracitados.
+
+Dúvidas? Quer jogar conosco?
+Acesse o servidor da Zelda Randomizer Brasil: bit.ly/ZRBRdiscord
+
+**Ajustes na Blitz Settings by llsilveira**
