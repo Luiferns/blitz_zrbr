@@ -43,6 +43,6 @@ Path of the Reward substitui as dicas de Way of the Hero, fornecendo informaçõ
 **Vamos a um exemplo:** A recompensa **Fire Medallion** está atrás de **Deku Tree**, e você encontrou a seguinte dica "*Ice Cavern is on the Path of the Fire*". Isso quer dizer que, em Ice Cavern, você encontrará um item que te permitirá obter o Fire Medallion (portanto, terminar Deku Tree). Esse item pode ser a Kokiri Sword, o Slingshot (em casos mais extremos) ou outro item/música que te permitirá obter os itens supracitados.
 
 Dúvidas? Quer jogar conosco?
-Acesse o servidor da Zelda Randomizer Brasil: bit.ly/ZRBRdiscord
+Acesse o servidor da Zelda Randomizer Brasil: https://www.bit.ly/ZRBRdiscord
 
 **Ajustes na Blitz Settings by llsilveira**
