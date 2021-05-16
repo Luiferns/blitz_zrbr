@@ -10,7 +10,7 @@ Python (3.6 ou superior): https://www.python.org/downloads/
 
 Node.JS (versão mais recente ou 13.14 se você for usuário de Windows 7): https://nodejs.org/en/download/
 
-Após instalar os dois programas, extraia o gerador e abra o arquivo gui.py. Nunca atualize seu gerador, uma vez que o arquivo de hints foi criado para essa versão específica. Quando o gerador abrir, clique na opção "Enable Plandomizer (Advanced) e escolha como Plandomizer File o arquivo disponibilizado aqui (nomeado como "blitz-goal-plando.json"). Selecione sua ROM 1.0 de The Legend of Zelda: Ocarina of Time, o destino da ROM modificada e a string utilizada para gerar as seeds (há diversas strings com diferentes configurações nos links abaixo).
+Após instalar os dois programas, extraia o gerador e abra o arquivo gui.py. Nunca atualize seu gerador, uma vez que o arquivo de hints foi criado para essa versão específica. Quando o gerador abrir, clique na opção "Enable Plandomizer (Advanced)" e escolha como Plandomizer File o arquivo disponibilizado aqui (nomeado como "blitz-goal-plando.json"). Selecione sua ROM 1.0 de The Legend of Zelda: Ocarina of Time, o destino da ROM modificada e a string utilizada para gerar as seeds: AJTEUYASKAA8KLAEJAASAECCYL52AAACABSAGAC6SKSC2SC3JHLUVNFBSNQAACAA7CDLAC.
 
 # Strings
 
@@ -25,7 +25,7 @@ Para isso, houve uma importante alteração: *Ganon's Castle* abre com **seis re
 As dicas também foram alteradas: saíram os Ways of the Hero e entraram os Path of the Reward (mecânica explicada no fim do documento).
  
 **Modelo de settings: Season 4**
-- 40 e 50 skulltulas desabilitados;
+- 40 e 50 skulltulas desabilitados, 1500HBA habilitado;
 - Closed Deku Tree;
 - Claim Check é o primeiro item da Trade Quest;
 - Ganon's Castle **sempre** é foolish, sem dicas informando que o local é foolish;
