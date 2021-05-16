@@ -12,8 +12,11 @@ Node.JS (versão mais recente ou 13.14 se você for usuário de Windows 7): http
 
 Após instalar os dois programas, extraia o gerador e abra o arquivo gui.py. Nunca atualize seu gerador, uma vez que o arquivo de hints foi criado para essa versão específica. Quando o gerador abrir, clique na opção "Enable Plandomizer (Advanced) e escolha como Plandomizer File o arquivo disponibilizado aqui (nomeado como "blitz-goal-plando.json"). Selecione sua ROM 1.0 de The Legend of Zelda: Ocarina of Time, o destino da ROM modificada e a string utilizada para gerar as seeds (há diversas strings com diferentes configurações nos links abaixo).
 
-# Lista de Strings
-https://pastebin.com/X8D0jts0
+# Strings
+
+String ZRBR:
+AJTEUYASKAA8KLAEJAASAECCYL52AAACABSAGAC6SKSC2SC3JHLUVNFBSNQAACAA7CDLAC
+
 
 # O que é a Blitz Settings?
 A setting Blitz foi desenvolvida para torneios de curtíssima duração, proporcionando seeds mais rápidas do que o padrão. Uma seed de Blitz costuma terminar entre 1:30h a 2:30h.
@@ -22,7 +25,7 @@ Para isso, houve uma importante alteração: *Ganon's Castle* abre com **seis re
 As dicas também foram alteradas: saíram os Ways of the Hero e entraram os Path of the Reward (mecânica explicada no fim do documento).
  
 **Modelo de settings: Season 4**
-- 40 e 50 skulltulas, 1500 Horseback Archery habilitados;
+- 40 e 50 skulltulas desabilitados;
 - Closed Deku Tree;
 - Claim Check é o primeiro item da Trade Quest;
 - Ganon's Castle **sempre** é foolish, sem dicas informando que o local é foolish;
@@ -34,7 +37,7 @@ As dicas também foram alteradas: saíram os Ways of the Hero e entraram os Path
 **Dicas:**
 - 3 Path of the Reward x2
 - 3 Foolish x2
-- 6 Always (30/40/50 skulls, música de Ocarina of Time, música de Burning Kakariko e Frogs2) x2
+- 6 Always (30 skulls, Skull Mask, música de Ocarina of Time, música de Burning Kakariko, Frogs2 e Magia - determinado aleatoriamente) x2
 - 5 Sometimes x1
  
 **O que é esse Path of the Reward?**
