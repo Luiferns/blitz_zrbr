@@ -10,7 +10,7 @@ Python (3.6 ou superior): https://www.python.org/downloads/
 
 Node.JS (versão mais recente ou 13.14 se você for usuário de Windows 7): https://nodejs.org/en/download/
 
-Após instalar os dois programas, extraia o gerador e abra o arquivo gui.py. Nunca atualize seu gerador, uma vez que o arquivo de hints foi criado para essa versão específica. Quando o gerador abrir, clique na opção "Enable Plandomizer (Advanced)" e escolha como Plandomizer File o arquivo disponibilizado aqui (nomeado como "blitz-goal-plando.json"). Selecione sua ROM 1.0 de The Legend of Zelda: Ocarina of Time, o destino da ROM modificada e a string utilizada para gerar as seeds: AJTEUYASKAA8KLAEJAASAECCYL52AAACABSAGAC6SKSC2SC3JHLUVNFBSNQAACAA7CDLAC.
+Após instalar os dois programas, extraia o gerador e abra o arquivo gui.py. Nunca atualize seu gerador, uma vez que o arquivo de hints foi criado para essa versão específica. Quando o gerador abrir, clique na opção "Enable Plandomizer (Advanced)" e escolha como Plandomizer File o arquivo disponibilizado aqui (nomeado como "blitz-goal-plando.json"). Selecione sua ROM 1.0 de The Legend of Zelda: Ocarina of Time, o destino da ROM modificada e a string utilizada para gerar as seeds, disponível abaixo:
 
 # Strings
 
