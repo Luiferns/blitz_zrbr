@@ -32,7 +32,8 @@ As dicas também foram alteradas: saíram os Ways of the Hero e entraram os Path
 - Sem dicas nas grottos;
 - Random spawn;
 - Já começa com a música que estaria em Zelda's Lullaby, além da Zelda's Letter entregue;
-- Começa com a Fairy Ocarina, além de Deku Shield e outros consumíveis.
+- Começa com a Fairy Ocarina, além de Deku Shield e outros consumíveis;
+- Há duas LA no jogo: a primeira delas está randomizada como normalmente. A segunda LA está em Light Arrows Cutscene, configurado para 7 recompensas de dungeon. Assim, você pode optar por pegá-la caso a LA randomizada esteja em um local ruim.
  
 **Dicas:**
 - 3 Path of the Reward x2
