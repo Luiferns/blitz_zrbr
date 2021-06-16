@@ -14,14 +14,8 @@ Após instalar os dois programas, extraia o gerador e abra o arquivo gui.py. Nun
 
 # Strings
 
-String ZRBR v1.2:
+**String ZRBR v1.2**
 AJTEUYASKAA8KLAEJAASAECCYL52AAACABSAGAC6SKSC2SC3JHLUVNFBSNQSCACAA7CDLAC
-
---
-
-Versão Legado v1.1
-AJTEUYASKAA8KLAEJAASAECCYL52AAACABSAGAC6SKSC2SC3JHLUVNFBSNQAACAA7CDLAC
-
 
 # O que é a Blitz Settings?
 A setting Blitz foi desenvolvida para torneios de curtíssima duração, proporcionando seeds mais rápidas do que o padrão. Uma seed de Blitz costuma terminar entre 1:30h a 2:30h.
@@ -55,3 +49,10 @@ Dúvidas? Quer jogar conosco?
 Acesse o servidor da Zelda Randomizer Brasil: https://www.bit.ly/ZRBRdiscord
 
 **Ajustes na Blitz Settings by llsilveira & Luiferns**
+
+--
+
+**Strings Obsoletas**
+
+String Legado v1.1
+AJTEUYASKAA8KLAEJAASAECCYL52AAACABSAGAC6SKSC2SC3JHLUVNFBSNQAACAA7CDLAC
