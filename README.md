@@ -1,5 +1,5 @@
 # blitz_zrbr
-Arquivo de plando (plando file) para gerar as settings Blitz utilizadas na comunidade Zelda Randomizer Brasil (ZRBR).
+Arquivo de plando (plando file) para gerar as settings Blitz utilizadas na comunidade Zelda Randomizer Brasil (ZRBR). Não se esqueça de obter a nova versão em "Releases", no canto direito >>>
 
 # Gerando uma seed Blitz
 Em primeiro lugar, você precisará fazer o download do gerador e de dois programas, Python e Nods.js. Todos os links estão disponíveis abaixo.
