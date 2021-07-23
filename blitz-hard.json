@@ -1,0 +1,69 @@
+{
+  "settings":            {
+    "item_hints":                              ["Magic Meter"],
+    "hint_dist_user": {
+      "name":                  "Hard Blitz",
+      "gui_name":              "Hard Blitz",
+      "description":           "Blitz settings com uma pancada de tricks habilitados.",
+      "add_locations":         [{ "location": "Deku Theater Skull Mask", "types": ["always"] }],
+      "remove_locations":      [],
+      "add_items":             [],
+      "remove_items":          [{"types": ["woth","goal"], "item": "Zeldas Lullaby"},
+								{"types": ["barren"], "item": "Stone of Agony"}],
+      "dungeons_woth_limit":   2,
+      "dungeons_barren_limit": 1,
+      "named_items_required":  false,
+      "use_default_goals":     true,
+      "distribution":          {
+          "trial":          {"order":  1, "weight": 0.0, "fixed":  0, "copies": 1},
+          "always":         {"order":  2, "weight": 0.0, "fixed":  0, "copies": 2},
+          "woth":           {"order":  3, "weight": 0.0, "fixed":  0, "copies": 2},
+          "goal":           {"order":  4, "weight": 0.0, "fixed":  3, "copies": 2},
+          "barren":         {"order":  6, "weight": 0.0, "fixed":  3, "copies": 2},
+          "entrance":       {"order":  7, "weight": 0.0, "fixed":  3, "copies": 2},
+          "sometimes":      {"order":  8, "weight": 0.0, "fixed":  5, "copies": 2},
+          "random":         {"order":  9, "weight": 9.0, "fixed":  0, "copies": 1},
+          "item":           {"order":  0, "weight": 0.0, "fixed":  0, "copies": 1},
+          "song":           {"order":  0, "weight": 0.0, "fixed":  0, "copies": 1},
+          "overworld":      {"order":  0, "weight": 0.0, "fixed":  0, "copies": 1},
+          "dungeon":        {"order":  0, "weight": 0.0, "fixed":  0, "copies": 1},
+          "junk":           {"order":  0, "weight": 0.0, "fixed":  0, "copies": 1},
+          "named-item":     {"order":  5, "weight": 0.0, "fixed":  1, "copies": 2}
+      },
+      "groups": [],
+      "goals": [
+        {
+            "name": "Magic",
+            "color": "Pink",
+            "items": [{"name": "Magic Meter", "quantity": 1}]
+        }
+    ]
+},
+  "disabled_locations": [
+	"Deku Theater Mask of Truth",
+	"Kak 40 Gold Skulltula Reward",
+	"Kak 50 Gold Skulltula Reward",
+    "Ganons Castle Forest Trial Chest",
+    "Ganons Castle Water Trial Left Chest",
+    "Ganons Castle Water Trial Right Chest",
+    "Ganons Castle Shadow Trial Front Chest",
+    "Ganons Castle Shadow Trial Golden Gauntlets Chest",
+	"Ganons Castle Light Trial First Left Chest",
+    "Ganons Castle Light Trial Second Left Chest",
+    "Ganons Castle Light Trial Third Left Chest",
+    "Ganons Castle Light Trial First Right Chest",
+    "Ganons Castle Light Trial Second Right Chest",
+    "Ganons Castle Light Trial Third Right Chest",
+    "Ganons Castle Spirit Trial Crystal Switch Chest",
+    "Ganons Castle Spirit Trial Invisible Chest",
+    "Ganons Tower Boss Key Chest"
+  ]
+},
+"item_pool": {
+  "Light Arrows": 2
+},
+"locations": {
+  "ToT Light Arrows Cutscene":                             "Light Arrows",
+  "Ganons Castle Forest Trial Chest":                             "Stone of Agony"
+}
+}
