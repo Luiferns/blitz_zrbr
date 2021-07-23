@@ -51,6 +51,10 @@ Acesse o servidor da Zelda Randomizer Brasil: https://www.bit.ly/ZRBRdiscord
 
 **Ajustes na Blitz Settings by llsilveira & Luiferns**
 
+# Hard Settings
+A Hard Settings introduz novos tricks na lógica, além de permitir tricks previamente banidos. Confira mais no último release:
+https://github.com/Luiferns/blitz_zrbr/releases/tag/v1.2H
+
 --
 
 **Strings Obsoletas**
